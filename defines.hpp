@@ -18,7 +18,7 @@
 #define NOT_ALL_REGS 2
 #define TRACE_LINE_SIZE 512
 
-#define DEBUG 0
+#define DEBUG 1
 #define PROCESSOR_DEBUG 0
 #define FETCH_DEBUG 0
 #define DECODE_DEBUG 0
@@ -26,7 +26,7 @@
 #define DISPATCH_DEBUG 0
 #define EXECUTE_DEBUG 0
 #define COMMIT_DEBUG 0
-#define MEMORY_DEBUG 0
+#define MEMORY_DEBUG 1
 #define HIVE_DEBUG 0
 #define VIMA_DEBUG 0
 #define DV_DEBUG 0
